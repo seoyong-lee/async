@@ -1,2 +1,2 @@
 # async
-async test
+자바스크립트 비동기 학습 관련 자료
